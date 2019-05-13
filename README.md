@@ -2,7 +2,7 @@
 
 This repo contains the Jupyter notebook used in the seminar in order to show how the Data Scientists can build vector maps using [CARTOframes](https://cartoframes.readthedocs.io/en/latest/) and the [CARTO VL expressions](https://carto.com/developers/carto-vl/v0.8.0/reference/#cartoexpressions)
 
-That's an extended notebook example from the [official repo's examples](https://github.com/CartoDB/cartoframes/tree/master/examples) including the 'vector maps' module to play with CARTO VL expressions
+That's an extended notebook example from the [official examples](https://github.com/CartoDB/cartoframes/tree/master/examples) including the 'vector maps' module to play with CARTO VL expressions
 
 <img src="./ny-citybikes-animation-thumb.png" alt="ny-citybikes-animation-thumb">
 
